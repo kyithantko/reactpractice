@@ -1,0 +1,12 @@
+.count {
+  background-color: pink;
+  text-align: center;
+}
+
+.fixed_count {
+  background-color: teal;
+  width: 200px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
